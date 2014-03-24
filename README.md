@@ -6,7 +6,7 @@ Applescript based Alfred workflows, derived from [scripts I have created](https:
 
 **dued** [is explained here](https://github.com/unforswearing/dued) 
 
-**Hide App Windows** hides all application windows (except Finder) using the keyword `hidewin`. Useful for uncluttering the desktop. 
+**Hide App Windows** hides all application windows (except Finder) using the keyword `hidewin`. 
 
 **Markdown Links** generates markdown formatted links from urls on your clipboard.  
 
