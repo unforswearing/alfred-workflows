@@ -23,10 +23,10 @@ Keyword `mdclick` will copy a click-through image link to your clipboard.
 
 - To use, enter `mdclick yourclickthroughlink` 
 - The link `[![img url][1]][2]` (and corresponding `[1]` and `[2]` footnote links) will be copied. 
-- `[1]` will be the link copied from your clipboard and `[2]` is the destination link you specify. 
+- `[1]` will be the link copied from your clipboard (`img url`) and `[2]` is the destination link you specify (`yourclickthroughlink`). 
 - The output will appear as:
 
-> [![clipboard url][1]][2]  
+> [![img url][1]][2]  
 > 
 > [1]: img url    
 > [2]: your click through link  
