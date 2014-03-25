@@ -10,7 +10,6 @@ Applescript based Alfred workflows, derived from [scripts I have created](https:
 
 **Markdown Links** generates markdown formatted links from urls on your clipboard. [Explanation here](https://github.com/unforswearing/alfredWorkflows/blob/master/help/MDLinksHelp.md).   
 
-**Screensaver Password Toggle** allows you to turn your "password on wake" settings on (using keyword `ponn`) or off (using keyword `poff`). Update to simplify the keywords coming soon. 
-
+**Screensaver Password Toggle**. Use `pass on` to turn your password on, and `pass off` to turn it off. 
 
 
