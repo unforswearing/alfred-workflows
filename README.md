@@ -4,7 +4,7 @@ Alfred Workflows
 Applescript based Alfred workflows, derived from [scripts I have created](https://github.com/unforswearing/applescript):  
 
 
-**dued** [is explained here](https://github.com/unforswearing/dued) 
+**dued** Formatted dates for plain text notes/documents/where ever you need them. [Explanation here](https://github.com/unforswearing/dued). 
 
 **Hide App Windows** hides all application windows (except Finder) using the keyword `hidewin`. 
 
