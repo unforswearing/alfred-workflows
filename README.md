@@ -1,8 +1,10 @@
 Alfred Workflows
 ===============
 
-Applescript based Alfred workflows, derived from [scripts I have created](https://github.com/unforswearing/applescript):  
+Applescript based Alfred workflows, mostly derived from [scripts I have created](https://github.com/unforswearing/applescript).    
 
+
+###Available Workflows  
 
 **dued** Formatted dates for plain text notes/documents/where ever you need them. [Explanation here](https://github.com/unforswearing/dued). 
 
