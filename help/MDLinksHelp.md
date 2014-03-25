@@ -1,4 +1,3 @@
-
 ###Markdown Links Workflow help
 ===
 
@@ -12,13 +11,13 @@ There are three types of links this workflow can handle:
 Keyword `mdlink` will copy a standard markdown link to your clipboard.   
 
 - To use, enter `mdlink yourtext`
-- A markdown link `[link text](url)` will be copied. 
+- A markdown link `[yourtext](url)` will be copied. 
 
 
 Keyword `mdimage` will copy a mardkown formatted image to your clipboard. 
 
 - To use, enter keyword `mdimage youralttext`
-- An image link  `![alt text](img url)` will be copied. 
+- An image link  `![youralttext](img url)` will be copied. 
 
 Keyword `mdclick` will copy a click-through image link to your clipboard. 
 
@@ -29,8 +28,8 @@ Keyword `mdclick` will copy a click-through image link to your clipboard.
 
 > [![clipboard url][1]][2]  
 > 
-> [1]: clipboard url    
-> [2]: click through url  
+> [1]: img url    
+> [2]: your click through link  
 
 ###To Do  
 
