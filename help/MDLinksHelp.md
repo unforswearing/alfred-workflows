@@ -2,7 +2,12 @@
 ###Markdown Links Workflow help
 ===
 
-The **Markdown Links Worklow** allows you to easily copy formatted mardown links to your clipboard for easy pasting. There are three types of links this workflow can handle:  
+The **Markdown Links Worklow** allows you to easily copy formatted mardown links to your clipboard for easy pasting. 
+<BR>  
+  
+###Usage  
+
+There are three types of links this workflow can handle:  
   
 Keyword `mdlink` will copy a standard markdown link to your clipboard.   
 
@@ -26,3 +31,7 @@ Keyword `mdclick` will copy a click-through image link to your clipboard.
 > 
 > [1]: clipboard url    
 > [2]: click through url  
+
+###To Do  
+
+Suggestions for improvement are always welcome.  
