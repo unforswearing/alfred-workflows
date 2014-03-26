@@ -1,6 +1,5 @@
-###Markdown Links Workflow help
+###Markdown Links Workflow help  
 ===
-
 The **Markdown Links Worklow** allows you to easily copy formatted mardown links to your clipboard for easy pasting. 
 <BR>  
   
