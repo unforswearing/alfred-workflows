@@ -6,7 +6,7 @@ Applescript based Alfred workflows, mostly derived from [scripts I have created]
 
 ###Available
 
-∫∫ **Clipboard Text Processing** - Simple `bash` commands to speed up note taking. Add quotes or parenthesis, remove spaces, create a slug, convert to upper/lower/title case and title case with no spaces. [A cheat sheet can be found here.](https://github.com/unforswearing/alfredWorkflows/blob/master/help/ClipboardTextProcessing.md). Alphabetization and full help coming soon.  
+∫∫ **Clipboard Text Processing** - Simple `bash` commands to speed up note taking. Add quotes or parenthesis, remove spaces, create a slug, convert to upper/lower/title case and title case with no spaces. [A cheat sheet can be found here](https://github.com/unforswearing/alfredWorkflows/blob/master/help/ClipboardTextProcessing.md). Alphabetization and full help coming soon.  
 
 ∫∫ **Dued** -  Formatted dates for plain text notes/documents/where ever you need them. [Explanation here](https://github.com/unforswearing/dued). 
 
