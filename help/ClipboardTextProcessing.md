@@ -8,6 +8,10 @@ this is a test > "this is a test"
 this is a test > (this is a test)
 
 
+**Alphabetize a list**  
+`sort -d`  
+
+
 **Create a Slug (tps)**  
 `sed -e 's/ /-/g' | awk '{print tolower($0)}'`  
 this is a test > this-is-a-test-
