@@ -3,6 +3,11 @@
 The **Markdown Links Worklow** allows you to easily copy formatted mardown links to your clipboard for easy pasting. 
 <BR>  
   
+![MD Links](https://raw.githubusercontent.com/unforswearing/images/master/MDLinksAlfred.gif)  
+
+<BR>
+
+
 ###Usage  
 
 There are three types of links this workflow can handle:  
