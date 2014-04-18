@@ -1,3 +1,6 @@
+![CTP](https://raw.githubusercontent.com/unforswearing/images/master/ClipboardTextProcessing.gif)  
+
+
 **Add quotes to string (tpq)**  
 `sed -e 's/^/\"/' | sed -e 's/$/\"/g'`  
 this is a test > "this is a test"
