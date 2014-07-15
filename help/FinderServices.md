@@ -1,4 +1,4 @@
-This workflow combines (and replaces) several individual scripts/workflows. You may quickly realize that not all of these are Finder based...
+This workflow combines (and replaces) several individual scripts I usually use via the Finder toolbar and/or other indiviudal Alfred workflows. 
 
 To use, type `fs [option]`
 
