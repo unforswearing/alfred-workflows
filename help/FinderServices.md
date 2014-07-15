@@ -23,4 +23,4 @@ Here is the list of optinos from the help text:
 	shell - open the selected files path in terminal
 	showd - show files on the desktop
 	showf - show hidden files
-	unhide win - unhide all hidden application windows (except Finder)
+	unhidewin - unhide all hidden application windows (except Finder)
