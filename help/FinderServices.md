@@ -2,7 +2,7 @@ This workflow combines (and replaces) several individual scripts I usually use v
 
 To use, type `fs [option]`
 
-Here is the list of optinos from the help text:  
+Here is the list of options from the help text:  
   
 	bright0 - set monitor brightness to 0% (completely dim)
 	bright1 - set monitor brightness to 100% (full brightness)
