@@ -6,8 +6,6 @@ Applescript based Alfred workflows, mostly derived from [scripts I have created]
 
 ###Available
 
-∫∫ **Clipboard Text Processing** - Simple `bash` and `applescript` commands to speed up note taking. Alphabetize, add quotes or parenthesis, remove spaces, create a slug, add a custom delimiter, convert to upper/lower/title case and title case with no spaces. [A cheat sheet can be found here](https://github.com/unforswearing/alfredWorkflows/blob/master/help/ClipboardTextProcessing.md). Full help page coming soon.     
-
 ∫∫ **Dued** -  Formatted dates for plain text notes/documents/where ever you need them. [Explanation here](https://github.com/unforswearing/dued).  
 
 ∫∫ **Finder Services** - Quick access to various Finder (and system) tasks, including showing hidden files, hiding files on the desktop, copying the contents of text based files to the clipboard (markdown, html, txt), removing the label from files, and more. Quick help [located here](https://github.com/unforswearing/alfred-workflows/blob/master/help/FinderServices.md)   
